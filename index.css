@@ -1,0 +1,50 @@
+body{
+    background-color: skyblue;
+}
+h1{
+    font-weight: 900;
+    position: fixed;
+    left:43%;
+    top: 20px;
+}
+.select{
+    display: block;
+    position:fixed;
+    top: 30%;
+    left: 30%;
+    text-align:center;
+    border-radius:60px;
+    width: 200px;
+    height: 60px;
+    padding-left:30px;
+    font-size: large;
+}
+.gap{
+    display: block;
+    position:fixed;
+    top: 28%;
+    left: 50%;
+}
+.option{
+    display: block;
+    position:fixed;
+    top: 30%;
+    left: 60%;
+    border-radius:60px;
+    width: 200px;
+    height: 60px;
+    padding-left:30px;
+    font-size: large;
+}
+.button{
+    display:block;
+    position:fixed;
+    top:55%;
+    left:47%;
+    background-color: green;
+    color: white;
+    border-radius:60px;
+    border-color: slategray;
+    width: 150px;
+    height: 40px;
+}
